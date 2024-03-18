@@ -16,7 +16,7 @@ timezone: Asia/Taipei
 
 title: Gholts # 主標題
 
-tagline: A normal blog☝️🥸 # 它將顯示為子標題
+tagline: A normal blog # 它將顯示為子標題
 
 description: >- # 用於 seo 元標籤和原子饋送的描述
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
