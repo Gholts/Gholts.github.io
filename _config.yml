@@ -19,11 +19,11 @@ title: Gholts # 主標題
 tagline: A normal blog # 它將顯示為子標題
 
 description: >- # 用於 seo 元標籤和原子饋送的描述
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A simple blog belonging to gholts
 
 # 填寫您的網站的協議和主機名。
 # 例如 'https://username.github.io'，注意不以 '/' 結尾。
-url: ""
+url: "https://blog.gholts.top"
 
 github:
   username: Gholts # 更改為您的 github 用戶名
@@ -35,7 +35,7 @@ social:
   # 更改為您的全名。
   # 它將顯示為帖子的默認作者和頁腳中的版權所有者
   name: GholtsMxv
-  email: example@domain.com # 更改為您的電子郵件地址
+  email: ghost20090105@gmail.com # 更改為您的電子郵件地址
   links:
     # 第一個元素作為版權所有者的鏈接
     - https://twitter.com/GhostMxv # 更改為您的 twitter 主頁
@@ -79,7 +79,7 @@ avatar: https://avatars.githubusercontent.com/u/104642670?v=4
 
 # 用於 SEO `og:image` 元標籤中的網站範圍社交預覽圖像的 URL。
 # 它可以被前面板中自定義的 `page.image` 覆蓋。
-social_preview_image: https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Disguised%20Face.png # 字符串，本地或 CORS 資源
+social_preview_image: # 字符串，本地或 CORS 資源
 
 # 布林型，帖子中 TOC 的全局開關。
 toc: true
@@ -125,7 +125,7 @@ pwa:
 paginate: 10
 
 # 您網站的基本 URL
-baseurl: ""
+baseurl: "https://blog.gholts.top"
 
 # ------------ 以下選項不建議修改 ------------------
 
