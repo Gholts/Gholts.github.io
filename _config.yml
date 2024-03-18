@@ -35,7 +35,7 @@ social:
   # 更改為您的全名。
   # 它將顯示為帖子的默認作者和頁腳中的版權所有者
   name: GholtsMxv
-  email: ghost20090105@gmail.com # 更改為您的電子郵件地址
+  email: # 更改為您的電子郵件地址
   links:
     # 第一個元素作為版權所有者的鏈接
     - https://twitter.com/GhostMxv # 更改為您的 twitter 主頁
