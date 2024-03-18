@@ -23,7 +23,7 @@ description: >- # 用於 seo 元標籤和原子饋送的描述
 
 # 填寫您的網站的協議和主機名。
 # 例如 'https://username.github.io'，注意不以 '/' 結尾。
-url: "blog.gholts.top"
+url: ""
 
 github:
   username: Gholts # 更改為您的 github 用戶名
