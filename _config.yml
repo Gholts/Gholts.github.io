@@ -79,7 +79,7 @@ avatar: https://avatars.githubusercontent.com/u/104642670?v=4
 
 # 用於 SEO `og:image` 元標籤中的網站範圍社交預覽圖像的 URL。
 # 它可以被前面板中自定義的 `page.image` 覆蓋。
-social_preview_image: https://avatars.githubusercontent.com/u/104642670?v=4 # 字符串，本地或 CORS 資源
+social_preview_image: assets/img/favicons/favicons.ico # 字符串，本地或 CORS 資源
 
 # 布林型，帖子中 TOC 的全局開關。
 toc: true
