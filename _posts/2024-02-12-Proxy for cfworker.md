@@ -1,6 +1,8 @@
 ---
-layout: post
 title: CFworker代理免費搭建
+date: 2024-02-12
+categories: [Proxy, Tutorial]
+tags: [proxy]
 ---
 
 ## ※[workers項目地址](https://github.com/3Kmfi6HP/EDtunnel) ##
