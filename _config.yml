@@ -85,7 +85,7 @@ social_preview_image: # 字符串，本地或 CORS 資源
 toc: true
 
 comments:
-  active: # 帖子評論的全局開關，例如，'disqus'。保留空白意味著禁用
+  active: giscus # 帖子評論的全局開關，例如，'disqus'。保留空白意味著禁用
   # 可用選項如下：
   disqus:
     shortname: # 用 Disqus 簡稱填充。› https://help.disqus.com/en/articles/1717111-what-s-a-shortname
