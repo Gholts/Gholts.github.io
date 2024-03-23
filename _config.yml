@@ -95,14 +95,14 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus 選項 › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
-    mapping: # 可選，默認為 'pathname'
-    input_position: # 可選，默認為 'bottom'
-    lang: # 可選，默認為 `site.lang` 的值
-    reactions_enabled: # 可選，默認為 `1` 的值
+    repo: Gholts/Gholts.github.io # <gh-username>/<repo>
+    repo_id: R_kgDOLiLeow
+    category: Giscus chat
+    category_id: DIC_kwDOLiLeo84CeK6x
+    mapping: pathname # 可選，默認為 'pathname'
+    input_position: top # 可選，默認為 'bottom'
+    lang: zh-TW # 可選，默認為 `site.lang` 的值
+    reactions_enabled: 1 # 可選，默認為 `1` 的值
 
 # 自託管靜態資產，可選 › https://github.com/cotes2020/chirpy-static-assets
 assets:
