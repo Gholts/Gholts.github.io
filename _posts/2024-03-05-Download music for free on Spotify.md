@@ -1,7 +1,7 @@
 ---
 title: 利用SpotDL下載Spotify音乐
 date: 2024-03-05
-categories: [Tools, Tutorial]
+categories: [Tutorial, Tools]
 tags: [spotdl]
 ---
 
