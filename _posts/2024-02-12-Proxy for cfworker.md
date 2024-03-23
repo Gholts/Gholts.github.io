@@ -1,7 +1,7 @@
 ---
 title: CFworker代理免費搭建
 date: 2024-02-12
-categories: [Proxy, Tutorial]
+categories: [Tutorial, Proxy]
 tags: [proxy]
 ---
 
