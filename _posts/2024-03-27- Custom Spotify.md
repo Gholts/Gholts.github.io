@@ -36,3 +36,7 @@ tags: [spotx, spotify]
 >Spotify預設檔案資料夾在 `%appdata%/spotify`
 
 - 或者重新安裝 Spotify(建議[完全卸載 Spotify](https://github.com/amd64fox/Uninstall-Spotify))
+
+## 5.Advanced
+- 一些相關[SpotX FAQ](https://telegra.ph/SpotX-FAQ-09-19)
+- 更多[安裝參數](https://github.com/SpotX-Official/SpotX/discussions/60)
