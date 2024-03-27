@@ -4,11 +4,11 @@ icon: fas fa-link
 order: 5
 ---
 
-### <img src="https://dev.yesmore.cc/og.png" width="20" height="20" /> [YESMORE Blog](https://dev.yesmore.cc)
+### <img src="https://dev.yesmore.cc/og.png" alt="yesmore" width="20" height="20" /> [YESMORE Blog](https://dev.yesmore.cc)
 
-### <img src="https://www.laogou666.com/_next/image?url=https%3A%2F%2Fimages.mingming.dev%2Ffile%2F31ff5dd07a8202e429fb3.png&w=384&q=75" width="20" height="20" /> [LAOGOU Blog](https://www.laogou666.com/)
+### <img src="https://www.laogou666.com/_next/image?url=https%3A%2F%2Fimages.mingming.dev%2Ffile%2F31ff5dd07a8202e429fb3.png&w=384&q=75" alt="laogou" width="20" height="20" /> [LAOGOU Blog](https://www.laogou666.com/)
 
-### <img src="https://z1.ax1x.com/2023/11/30/pirnH00.jpg?t=0d6786f0-c569-4730-9e0a-b65384dd7b8d" width="20" height="20" /> [BUZZ Blog](https://blog.buzzchat.top/)
+### <img src="https://z1.ax1x.com/2023/11/30/pirnH00.jpg?t=0d6786f0-c569-4730-9e0a-b65384dd7b8d" alt="buzz" width="20" height="20" /> [BUZZ Blog](https://blog.buzzchat.top/)
 
 ---
 
