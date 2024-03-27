@@ -12,7 +12,7 @@ tags: [spotdl]
 
 - 進入[Python](https://www.python.org/downloads/)官網下載安裝包
 - 按照提示進行安裝
-- 在安裝過程中勾選配置環境變量
+- 在安裝過程中勾選配置環境變數
 
 ## 2.安裝SpotDL
 
@@ -22,13 +22,13 @@ tags: [spotdl]
 ## 3.Enjoy
 
 - 輸入代碼 `spotdl` `spotdl download [spotify單曲鏈接]` 或者 `spotdl download [spotify歌單鏈接]` 即可下載
-- 默認下載地址在 ```C:\Users\[你的Windows賬戶名]```
+- 預設下載地址在 ```C:\Users\[你的Windows賬戶名]```
 
 ## 4.Advanced
 
-- 默認配置文件在 `C:\Users\[你的Windows賬戶名]\.spotdl\config.json`
+- 預設設定檔在 `C:\Users\[你的Windows賬戶名]\.spotdl\config.json`
   
-- `output` 是配置默認下載地址
+- `output` 是配置預設下載地址
   
 - `format` 是配置下載音頻格式,例如 MP3,M4A 和 OPUS
   
