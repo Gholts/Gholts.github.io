@@ -1,5 +1,5 @@
 ---
-title: CFworker代理免費搭建
+title: CFworker Proxy免費搭建
 date: 2024-02-12
 categories: [Tutorial, Proxy]
 tags: [proxy]
@@ -23,8 +23,8 @@ tags: [proxy]
 
 ## 3.配置worker内容
 
-- 打開[EDtunel](https://github.com/3Kmfi6HP/EDtunnel/blob/main/_worker.js)
-- 複製全選js文件裏的内容  
+- 打開[EDtunel Worker.js](https://github.com/3Kmfi6HP/EDtunnel/blob/main/_worker.js)檔案
+- 複製全選js檔案裏的内容  
 - 返回你剛才創建的worker編輯界面  
 - 刪除默認文件worker.js中的全部文本,將剛才複製的内容粘貼上去  
 - 然後回到頂部,找到 `let userID =` 這行代碼,將等號後面單引號裏的内容替換成新的[uuid](https://www.uuidgenerator.net/version4),複製到記事本備用  
@@ -40,4 +40,4 @@ tags: [proxy]
 - 這時候運行代理,打開[Google](https://www.google.com/)測試是否成功.如果失敗,請確保每一步都嚴格按照教程操作.
 
 >### tips
->CFworker代理的具體速度取決於你的**物理位置**和**運營商**,有些特殊的地方注定是用不了的(西藏),還有些地區的運營商也可能會**阻斷**cloudflare的服務,具體使用情況取決於**個人使用環境**.
+>CFworker Proxy的具體速度取決於你的**物理位置**和**運營商**,有些特殊的地方注定是用不了的(西藏),還有些地區的運營商也可能會**阻斷**cloudflare的服務,具體使用情況取決於**個人使用環境**.
