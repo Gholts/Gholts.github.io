@@ -1,5 +1,5 @@
 ---
-title: 定製你的Spotify⑴
+title: 客製化Spotify⑴
 date: 2024-03-27
 categories: [Tutorial, Tools]
 tags: [spotx, spotify]
