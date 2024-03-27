@@ -35,5 +35,5 @@ order: 5
 
 ### 申請管道
 
-- Mail: Gholtsmxv@Gholts.top
+- Gholtsmxv@Gholts.top
 - Twitter/X 私信
