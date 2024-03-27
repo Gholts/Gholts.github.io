@@ -4,16 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## Contact me
+## Contact me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Disguised%20Face.png" alt="Disguised Face" width="60" height="60" />
 
 你可以透過 Github or Twitter 聯絡我🤤
 
-## More Blog Links
+## GitHub數據總覽 
 
-[YESMORE Blog](https://dev.yesmore.cc)
-
-[LAOGOU Blog](https://www.laogou666.com/)
-
-[BUZZ Blog](https://blog.buzzchat.top/)
-
-
+![github](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gholts&theme=nord_dark)
