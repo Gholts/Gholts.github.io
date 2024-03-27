@@ -6,7 +6,7 @@ theme: jekyll-theme-chirpy
 # 網頁語言 › http://www.lingoes.net/en/translator/langcode.htm
 # 如果它與 `_data/locales` 文件夾中的某個文件同名，布局語言也會被改變，
 # 否則，布局語言將使用 'en' 的默認值。
-lang: zh-TW
+lang: en-US
 
 # 修改為您的時區 › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: Asia/Taipei
