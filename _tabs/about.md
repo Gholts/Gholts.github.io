@@ -12,7 +12,7 @@ order: 4
 
 [YESMORE Blog](https://dev.yesmore.cc)
 
-[Laogou Blog](https://www.laogou666.com/)
+[LAOGOU Blog](https://www.laogou666.com/)
 
 [BUZZ Blog](https://blog.buzzchat.top/)
 
