@@ -1,7 +1,7 @@
 ---
 title: 加密上網代理軟體
 date: 2024-02-11
-categories: [Application Share, Proxy]
+categories: [Software Share, Proxy]
 tags: [proxy]
 ---
 ### [實時更新]各平台代理客戶端整理
