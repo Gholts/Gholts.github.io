@@ -10,4 +10,10 @@ order: 4
 
 ## More Blog Links
 
-[YESMORE](https://dev.yesmore.cc)
+[YESMORE Blog](https://dev.yesmore.cc)
+
+[Laogou Blog](https://www.laogou666.com/)
+
+[BUZZ Blog](https://blog.buzzchat.top/)
+
+
