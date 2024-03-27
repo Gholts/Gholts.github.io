@@ -7,6 +7,16 @@ tags: [spotx, spotify]
 
 ## ※[SpotX項目地址](https://github.com/SpotX-Official/SpotX)
 
+>SpotX是一個功能強大的Spotify客製化工具，同時還兼容安裝Spicetify用於客製化Spotify界面和功能，SpotX就是這一類軟體中的最優解。  
+>而SpotX有着以下功能:
+>- 去除廣告(非Premium用戶)
+>- 解鎖Premium功能(極高音質除外)
+>- 阻止Spotify自動更新(可選)
+>- 從主頁隱藏播客、劇集和有聲讀物(可選)
+>- 啟動更多實驗性功能
+>- 消除從右到左的 CSS 規則以進行簡化，並執行程式碼精簡
+>- 向 Spotify 開發人員停用哨兵的控制台日誌/錯誤/警告訊息，停止使用者互動日誌記錄
+
 ## 1.安裝Spotify
 
 - 下載[Spotify安裝包](https://download.scdn.co/SpotifySetup.exe)安裝即可
@@ -17,9 +27,9 @@ tags: [spotx, spotify]
 
 - 運行一個 Windows PowerShell
 
-- 非premium用戶執行 `iex "& { $(iwr -useb 'https://raw.githubusercontent.com/SpotX-Official/spotx-official.github.io/main/run.ps1') } -new_theme -language zh-TW"`
+- 非Premium用戶執行 `iex "& { $(iwr -useb 'https://raw.githubusercontent.com/SpotX-Official/spotx-official.github.io/main/run.ps1') } -new_theme -language zh-TW"`
 
-- premium用戶執行 `iex "& { $(iwr -useb 'https://raw.githubusercontent.com/SpotX-Official/spotx-official.github.io/main/run.ps1') } -new_theme -premium -language zh-TW"`
+- Premium用戶執行 `iex "& { $(iwr -useb 'https://raw.githubusercontent.com/SpotX-Official/spotx-official.github.io/main/run.ps1') } -new_theme -premium -language zh-TW"`
 
 - 根據個人需求選擇 [Y/N] 即可
 
