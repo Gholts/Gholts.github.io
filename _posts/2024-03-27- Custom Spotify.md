@@ -25,6 +25,8 @@ tags: [spotx, spotify]
 
 >Y即Yes，N即No
 
+>建議阻止 Spotify 自動更新，因爲Spotify官方的更新只是簡單的覆蓋，會導致你的SpotX失效，想要恢復很簡單，重新安裝SpotX即可
+
 ## 3.Enjoy
 
 - 等待Spotify重啓即可
