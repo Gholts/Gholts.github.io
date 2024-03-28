@@ -51,4 +51,6 @@ tags: [spotx, spotify]
 
 ## 5.Advanced
 - 一些相關[SpotX FAQ](https://telegra.ph/SpotX-FAQ-09-19)
+
 - 更多[安裝參數](https://github.com/SpotX-Official/SpotX/discussions/60)
+
